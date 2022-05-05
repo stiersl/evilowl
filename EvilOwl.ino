@@ -4,10 +4,12 @@
 //***********************************************************************
 // EvilOwl.ino 
 //evil owl monitoring system 
-// Writeen fro Arduino Uno
-// required DHT library
+// Written for Arduino Uno
+// required DHT library (https://github.com/adafruit/DHT-sensor-library/actions)
+//         and [Adafruit Unified Sensor Driver](https://github.com/adafruit/Adafruit_Sensor)
 // 
 // S. Stier   6/25/2020 Changed out DHT Sensor- refresh all
+// S. Stier   5/4/2022  Refresh 
 
 Servo myservo;  // create servo object to control a servo
 
